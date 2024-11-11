@@ -22,8 +22,11 @@ title: Möbius solarus
 # email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Möbius solarus, a Möbius strip 100km wide and 1 million km long, encircling a sun.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+
+# Somehow this fixed the reason why my css was not rendering in deployed mode (production)
+baseurl: /
+url: https://lbrick.github.io
+
 # twitter_username: jekyllrb
 # github_username:  jekyll
 
