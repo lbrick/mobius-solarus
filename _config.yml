@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Möbius solara, a Möbius strip 100km wide and 1 million km long, encircling a sun.
 
 # Somehow this fixed the reason why my css was not rendering in deployed mode (production)
-baseurl: /
+baseurl: /mobius-solarus/
 url: https://lbrick.github.io
 
 # twitter_username: jekyllrb
