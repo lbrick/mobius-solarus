@@ -1,0 +1,38 @@
+main:
+  - title: "Physical World"
+    url: /physical-world/
+  - title: "Society & Culture"
+    url: /society-culture/
+  # - title: "Posts"
+  #   url: /posts/
+  # - title: "Categories"
+  #   url: /categories/
+  # - title: "Tags"
+  #   url: /tags/
+  - title: "About"
+    url: /about/
+
+physical-world:
+  - title: Physical World
+    url: /physical-world/
+    children:
+      - title: "Geography"
+        url: /physical-world/geography/
+      - title: "Ecology"
+        url: /physical-world/ecology/
+      - title: "Natural resources"
+        url: /physical-world/natural-resources/
+      - title: "Magic & Technology"
+        url: /physical-world/magic-technology/
+
+
+society-culture:
+  - title: Society & Culture
+    url: /society-culture/
+    children:
+      - title: "Solar Regions Societies"
+        url: /society-culture/solar-regions-societies/
+      - title: "Shadowed Regions Societies"
+        url: /society-culture/shadowed-regions-societies/
+      - title: "Neutral/Mixed Regions Societies"
+        url: /society-culture/neutral-regions-societies/
