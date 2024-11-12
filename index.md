@@ -12,7 +12,7 @@ We’ll play on the Möbius solara – a Möbius strip 100km wide and 1 million 
 
 ## Session Zero Agenda:
 
-- [Physical World](physical-world/physical-world.md)
+- Physical World
     - Climate & survival challenges
     - Natural resources
     - Geography (landmarks, obstacles)
@@ -23,7 +23,7 @@ We’ll play on the Möbius solara – a Möbius strip 100km wide and 1 million 
     - What technologies help people survive/navigate?
     - Dark side alternatives to magic?
 
-- [Society & Culture](society-culture/society-culture.md)
+- Society & Culture
     - How do communities handle migration?
     - Major cultural groups to start with?
     - Relations between light/dark dwellers

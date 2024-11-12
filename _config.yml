@@ -81,7 +81,42 @@ footer:
     #   icon: "fab fa-fw fa-instagram"
     #   url: "https://instagram.com/"
 
+# Collections
+# collections:
+#   physical-world:
+#     output: true
+#     permalink: /:collection/:path/
+#   society-culture:
+#     output: true
+#     permalink: /:collection/:path/
+
 defaults:
+  # _physical-world
+  - scope:
+      path: ""
+      type: physical-world
+    values:
+      layout: single
+      read_time: false
+      author_profile: false
+      share: false
+      comments: false
+      toc_sticky: true
+      sidebar:
+        nav: "physical-world"
+  # _society-culture
+  - scope:
+      path: ""
+      type: society-culture
+    values:
+      layout: single
+      read_time: false
+      author_profile: false
+      share: false
+      comments: false
+      toc_sticky: true
+      sidebar:
+        nav: "society-culture"
   # _posts
   - scope:
       path: ""
