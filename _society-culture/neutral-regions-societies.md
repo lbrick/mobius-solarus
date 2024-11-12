@@ -1,6 +1,6 @@
 ---
 title: Neutral/Mixed Regions Societies
-permalink: /society-culture/neutral-regions-societies
+permalink: /society-culture/neutral-regions-societies/
 layout: single
 classes: wide
 

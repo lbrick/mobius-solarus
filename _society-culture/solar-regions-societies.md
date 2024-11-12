@@ -1,6 +1,6 @@
 ---
 title: Solar Regions Societies
-permalink: /society-culture/solar-regions-societies
+permalink: /society-culture/solar-regions-societies/
 layout: single
 classes: wide
 
