@@ -1,6 +1,6 @@
 ---
 title: Ecology
-permalink: /physical-world/ecology
+permalink: /ecology
 layout: single
 classes: wide
 

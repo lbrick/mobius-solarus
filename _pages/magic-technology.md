@@ -1,6 +1,6 @@
 ---
 title: Magic & Technology
-permalink: /physical-world/magic-technology
+permalink: /magic-technology
 layout: single
 classes: wide
 

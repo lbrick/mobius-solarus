@@ -1,6 +1,6 @@
 ---
 title: Natural Resources
-permalink: /physical-world/natural-resources
+permalink: /natural-resources
 layout: single
 classes: wide
 

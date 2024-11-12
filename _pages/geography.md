@@ -1,6 +1,6 @@
 ---
 title: Geography
-permalink: /physical-world/geography
+permalink: /geography
 layout: single
 classes: wide
 

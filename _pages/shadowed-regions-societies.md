@@ -1,6 +1,6 @@
 ---
 title: Shadowed Regions Societies
-permalink: /society-culture/shadowed-regions-societies
+permalink: /shadowed-regions-societies
 layout: single
 classes: wide
 
