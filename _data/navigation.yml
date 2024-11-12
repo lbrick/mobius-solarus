@@ -17,13 +17,13 @@ physical-world:
     url: /physical-world/
     children:
       - title: "Geography"
-        url: /geography/
+        url: /physical-world/geography/
       - title: "Ecology"
-        url: /ecology/
+        url: /physical-world/ecology/
       - title: "Natural resources"
-        url: /natural-resources/
+        url: /physical-world/natural-resources/
       - title: "Magic & Technology"
-        url: /magic-technology/
+        url: /physical-world/magic-technology/
 
 
 society-culture:
@@ -31,8 +31,8 @@ society-culture:
     url: /society-culture/
     children:
       - title: "Solar Regions Societies"
-        url: /solar-regions-societies/
+        url: /society-culture/solar-regions-societies/
       - title: "Shadowed Regions Societies"
-        url: /shadowed-regions-societies/
+        url: /society-culture/shadowed-regions-societies/
       - title: "Neutral/Mixed Regions Societies"
-        url: /neutral-regions-societies/
+        url: /society-culture/neutral-regions-societies/
