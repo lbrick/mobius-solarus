@@ -38,11 +38,7 @@ remote_theme: mmistakes/minimal-mistakes
 # Outputting
 permalink: /:categories/:title/
 
-include:
-  - _pages
-  - _physical-world
-  - _society-culture
-
+# Plugins (previously gems:)
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
@@ -50,6 +46,21 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
+
+# mimic GitHub Pages with --safe
+whitelist:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-include-cache
+
+# Reading Files
+include:
+  - _pages
+  - _physical-world
+  - _society-culture
 
 author:
   name   : "First Lastname"
@@ -93,7 +104,7 @@ footer:
 defaults:
   # _physical-world
   - scope:
-      path: ""
+      path: "_physical-world"
       type: physical-world
     values:
       layout: single
@@ -106,8 +117,8 @@ defaults:
         nav: "physical-world"
   # _society-culture
   - scope:
-      path: ""
-      type: society-culture
+      path: "_society-culture"
+      type: _society-culture
     values:
       layout: single
       read_time: false

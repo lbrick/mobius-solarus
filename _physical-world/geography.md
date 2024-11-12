@@ -34,7 +34,7 @@ The natural world of Möbius Solara plays an active role in its people’s lives
 
 The geography of Möbius Solara would be shaped by the endless solar orbit and the strip's unique, perpetual topography. Without conventional poles or a spherical shape, the landscape would instead feature vast, sprawling biomes that blend into each other over time as the light/dark divide shifts. Each region would be sculpted by geological features, extreme climates, and magical influences, creating environments as mystical as they are daunting. Here’s an outline of the geographic features:
 
-### The Bright Zone (Sunlit Regions)
+### Solar Regions (Constant Light)
 Though constantly bathed in sunlight, the Bright Zone would be far more than just an endless desert or plain. With its intensity of solar magic and warmth, various biomes would form and sustain complex ecosystems:
 
 - **Sunlit Oasis Clusters**:
@@ -49,7 +49,7 @@ Though constantly bathed in sunlight, the Bright Zone would be far more than jus
 - **Glowing Salt Flats**:
   Natural salt deposits near former lakes create shimmering salt flats that reflect sunlight, creating a blindingly bright surface. These flats are unique environments where salt-crystal flora and luminescent insects thrive, their natural sparkle accentuated by the bright daylight.
 
-### The Shadow Zone (Darkened Regions)
+### Shadowed Regions (Constant Darkness)
 Although this area lies in perpetual shadow, biomes of varied types can still emerge, each evolving to survive in darkness and subsisting on energy sources other than sunlight. The Shadow Zone would be filled with strange and often eerie beauty:
 
 - **Luminous Marshlands**:
