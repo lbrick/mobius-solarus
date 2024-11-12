@@ -9,12 +9,12 @@ sidebar:
 
 
 gallery:
-  - url: ../assets/images/H2A_Cutscene_I05Surface.webp
-    image_path: ../assets/images/H2A_Cutscene_I05Surface.webp
+  - url: assets/images/H2A_Cutscene_I05Surface.webp
+    image_path: assets/images/H2A_Cutscene_I05Surface.webp
     alt: "placeholder image 1"
     title: "Image 1 title caption"
-  - url: ../assets/images/1600px-H2A_-_ZenithRing.webp
-    image_path: ../assets/images/1600px-H2A_-_ZenithRing.webp
+  - url: assets/images/1600px-H2A_-_ZenithRing.webp
+    image_path: assets/images/1600px-H2A_-_ZenithRing.webp
     alt: "placeholder image 2"
     title: "Image 2 title caption"
 ---

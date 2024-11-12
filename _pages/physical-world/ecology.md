@@ -8,46 +8,46 @@ sidebar:
   nav: "physical-world"
 
 solar-gallery:
-  - url: ../assets/images/solar-drake.jpeg
-    image_path: ../assets/images/solar-drake.jpeg
+  - url: assets/images/solar-drake.jpeg
+    image_path: assets/images/solar-drake.jpeg
     alt: "Solar Drake"
     title: "Solar Drake"
-  - url: ../assets/images/radient-beast.jpeg
-    image_path: ../assets/images/radient-beast.jpeg
+  - url: assets/images/radient-beast.jpeg
+    image_path: assets/images/radient-beast.jpeg
     alt: "Radiant Beasts"
     title: "Radiant Beasts"
-  - url: ../assets/images/photosynth-beasts.jpeg
-    image_path: ../assets/images/photosynth-beasts.jpeg
+  - url: assets/images/photosynth-beasts.jpeg
+    image_path: assets/images/photosynth-beasts.jpeg
     alt: "Photosynth Beasts"
     title: "Photosynth Beasts"
-  - url: ../assets/images/sun-eel.jpeg
-    image_path: ../assets/images/sun-eel.jpeg
+  - url: assets/images/sun-eel.jpeg
+    image_path: assets/images/sun-eel.jpeg
     alt: "Sun Eel"
     title: "Sun Eel"
 
 eclpise-gallery:
-  - url: ../assets/images/lurking-shadows.jpeg
-    image_path: ../assets/images/lurking-shadows.jpeg
+  - url: assets/images/lurking-shadows.jpeg
+    image_path: assets/images/lurking-shadows.jpeg
     alt: "Lurking Shadows"
     title: "Lurking Shadows"
-  - url: ../assets/images/glimmer-moths.jpeg
-    image_path: ../assets/images/glimmer-moths.jpeg
+  - url: assets/images/glimmer-moths.jpeg
+    image_path: assets/images/glimmer-moths.jpeg
     alt: "Glimmer Moth"
     title: "Glimmer Moth"
-  - url: ../assets/images/dark-spawn.jpeg
-    image_path: ../assets/images/dark-spawn.jpeg
+  - url: assets/images/dark-spawn.jpeg
+    image_path: assets/images/dark-spawn.jpeg
     alt: "Darkspawn"
     title: "Darkspawn"
-  - url: ../assets/images/lumen-fungi.jpeg
-    image_path: ../assets/images/lumen-fungi.jpeg
+  - url: assets/images/lumen-fungi.jpeg
+    image_path: assets/images/lumen-fungi.jpeg
     alt: "Lumen Fungi"
     title: "Lumen Fungi"
-  - url: ../assets/images/starseed-bush.jpeg
-    image_path: ../assets/images/starseed-bush.jpeg
+  - url: assets/images/starseed-bush.jpeg
+    image_path: assets/images/starseed-bush.jpeg
     alt: "Starseed Bushes"
     title: "Starseed Bushes"
-  - url: ../assets/images/dusk-flowers.jpeg
-    image_path: ../assets/images/dusk-flowers.jpeg
+  - url: assets/images/dusk-flowers.jpeg
+    image_path: assets/images/dusk-flowers.jpeg
     alt: "Dusk Flowers"
     title: "Dusk Flowers"
 ---
